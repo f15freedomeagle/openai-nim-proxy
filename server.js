@@ -18,7 +18,7 @@ const NIM_API_KEY = process.env.NIM_API_KEY; // Set this in your hosting platfor
 
 // Model mapping (maps OpenAI model names to NVIDIA models)
 const MODEL_MAPPING = {
-  'gpt-3.5-turbo': 'meta/llama-3.1-8b-instruct',
+  'gpt-3.5-turbo': 'nvidia/nemotron-3-nano-30b-a3b',
   'gpt-4': 'meta/llama-3.1-70b-instruct',
   'gpt-4-turbo': 'moonshotai/kimi-k2-instruct-0905',
   'gpt-4o': 'nvidia/llama-3.1-nemotron-70b-instruct',
