@@ -23,7 +23,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'moonshotai/kimi-k2-instruct-0905',
   'gpt-4o': 'nvidia/llama-3.1-nemotron-70b-instruct',
   'claude-3-opus': 'meta/llama-3.1-405b-instruct',
-  'claude-3-sonnet': 'meta/llama-3.1-70b-instruct'
+  'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
 };
 
 // Health check endpoint
