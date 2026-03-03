@@ -21,7 +21,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'qwen/qwen3-next-80b-a3b-instruct',
   'gpt-4': 'moonshotai/kimi-k2-thinking',
   'gpt-4-turbo': 'moonshotai/kimi-k2-instruct-0905',
-  'gpt-4o': 'nvidia/llama-3.1-nemotron-70b-instruct',
+  'gpt-4o': 'deepseek-ai/deepseek-v3.2',
   'claude-3-opus': 'meta/llama-3.1-405b-instruct',
   'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
 };
