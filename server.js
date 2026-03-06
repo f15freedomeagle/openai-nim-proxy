@@ -16,6 +16,12 @@ app.use(express.json());
 const NIM_API_BASE = 'https://integrate.api.nvidia.com/v1';
 const NIM_API_KEY = process.env.NIM_API_KEY; // Set this in your hosting platform
 
+// 🔥 REASONING DISPLAY TOGGLE - Shows/hides reasoning in output
+const SHOW_REASONING = false; // Set to true to show reasoning with <think> tags
+
+// 🔥 THINKING MODE TOGGLE - Enables thinking for specific models that support it
+const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwargs thinking parameter
+
 // Model mapping (maps OpenAI model names to NVIDIA models)
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'qwen/qwen3-next-80b-a3b-instruct',
