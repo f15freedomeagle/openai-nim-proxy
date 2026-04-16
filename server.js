@@ -28,8 +28,8 @@ const MODEL_MAPPING = {
   'gpt-4': 'moonshotai/kimi-k2-thinking',
   'gpt-4-turbo': 'moonshotai/kimi-k2-instruct-0905',
   'gpt-4o': 'deepseek-ai/deepseek-v3.2',
-  'claude-3-opus': 'openai/gpt-oss-120b',
-  'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
+  'claude-3-opus': 'moonshotai/kimi-k2.5',
+  'claude-3-sonnet': 'mistralai/devstral-2-123b-instruct-2512'
 };
 
 // Health check endpoint
