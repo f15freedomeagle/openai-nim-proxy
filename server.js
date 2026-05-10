@@ -29,7 +29,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'deepseek-ai/deepseek-v4-flash',
   'gpt-4o': 'deepseek-ai/deepseek-v4-pro',
   'claude-3-opus': 'nvidia/nemotron-3-super-120b-a12b',
-  'claude-3-sonnet': 'mistralai/mistral-large-3-675b-instruct-2512'
+  'claude-3-sonnet': 'qwen/qwen3.5-122b-a10b'
 };
 
 // Health check endpoint
