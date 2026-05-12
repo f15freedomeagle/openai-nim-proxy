@@ -29,7 +29,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'deepseek-ai/deepseek-v4-flash',
   'gpt-4o': 'deepseek-ai/deepseek-v4-pro',
   'claude-3-opus': 'mistralai/mistral-medium-3.5-128b',
-  'claude-3-sonnet': 'minimaxai/minimax-m2.7'
+  'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
 };
 
 // Health check endpoint
