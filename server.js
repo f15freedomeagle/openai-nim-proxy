@@ -30,6 +30,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'mistralai/mistral-large-3-675b-instruct-2512',
   'claude-3-opus': 'mistralai/mistral-medium-3.5-128b',
   'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
+  'gemini-pro': 'deepseek-ai/deepseek-v4-pro'
 };
 
 // Health check endpoint
