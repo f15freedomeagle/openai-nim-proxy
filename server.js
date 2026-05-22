@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'mistralai/mistral-small-4-119b-2603',
   'gpt-4': 'qwen/qwen3-next-80b-a3b-instruct',
   'gpt-4-turbo': 'deepseek-ai/deepseek-v4-pro',
-  'gpt-4o': 'nvidia/llama-3.3-nemotron-super-49b-v1.5',
+  'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
   'claude-3-opus': 'mistralai/mistral-medium-3.5-128b',
   'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
   };
