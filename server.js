@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'deepseek-ai/deepseek-v4-flash',
   'gpt-4': 'mistralai/mixtral-8x7b-instruct-v0.1',
   'gpt-4-turbo': 'deepseek-ai/deepseek-v4-pro',
-  'gpt-4o': 'z-ai/glm-5.1',
+  'gpt-4o': 'mistralai/mistral-small-4-119b-2603',
   'claude-3-opus': 'mistralai/mistral-medium-3.5-128b',
   'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
   };
