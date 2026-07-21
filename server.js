@@ -26,7 +26,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'z-ai/glm-5.2',
   'gpt-4': 'qwen/qwen3-next-80b-a3b-instruct',
-  'gpt-4-turbo': 'poolside/laguna-xs-2.1',
+  'gpt-4-turbo': 'stepfun-ai/step-3.7-flash',
   'gpt-4o': 'mistralai/mistral-small-4-119b-2603',
   'claude-3-opus': 'mistralai/mistral-medium-3.5-128b',
   'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
