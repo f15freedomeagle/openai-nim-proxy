@@ -25,7 +25,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 // Model mapping (maps OpenAI model names to NVIDIA models)
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'z-ai/glm-5.2',
-  'gpt-4': 'qwen/qwen3-next-80b-a3b-instruct',
+  'gpt-4': 'moonshotai/kimi-k2.6',
   'gpt-4-turbo': 'nvidia/nemotron-3-nano-30b-a3b',
   'gpt-4o': 'mistralai/mistral-small-4-119b-2603',
   'claude-3-opus': 'mistralai/mistral-medium-3.5-128b',
