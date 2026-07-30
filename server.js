@@ -29,7 +29,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'thinkingmachines/inkling',
   'gpt-4o': 'stepfun-ai/step-3.7-flash',
   'claude-3-opus': 'mistralai/mistral-medium-3.5-128b',
-  'claude-3-sonnet': 'mistralai/ministral-14b-instruct-2512'
+  'claude-3-sonnet': 'meta/llama-3.3-70b-instruct'
   };
 
 // Health check endpoint
