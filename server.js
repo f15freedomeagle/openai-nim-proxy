@@ -29,7 +29,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
   'gpt-4o': 'stepfun-ai/step-3.7-flash',
   'claude-3-opus': 'poolside/laguna-xs-2.1',
-  'claude-3-sonnet': 'meta/llama-3.3-70b-instruct'
+  'claude-3-sonnet': 'nvidia/nemotron-3-super-120b-a12b'
   };
 
 // Health check endpoint
