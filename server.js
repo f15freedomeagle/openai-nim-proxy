@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'z-ai/glm-5.2',
   'gpt-4': 'minimaxai/minimax-m3',
   'gpt-4-turbo': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
-  'gpt-4o': 'minimaxai/minimax-m3',
+  'gpt-4o': 'moonshotai/kimi-k3',
   'claude-3-opus': 'poolside/laguna-xs-2.1',
   'claude-3-sonnet': 'nvidia/nemotron-3-super-120b-a12b'
   };
