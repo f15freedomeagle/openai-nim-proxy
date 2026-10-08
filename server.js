@@ -29,7 +29,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
   'gpt-4o': 'moonshotai/kimi-k3',
   'claude-3-opus': 'nvidia/nemotron-3.5-lightning-30b-a3b',
-  'claude-3-sonnet': 'nvidia/nemotron-3-super-120b-a12b'
+  'claude-3-sonnet': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning'
   };
 
 // Health check endpoint
